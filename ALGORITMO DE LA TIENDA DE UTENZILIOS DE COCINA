@@ -1,0 +1,26 @@
+Mostrar pagina de Inicio
+Mostrar menu con opciones:
+-Catalogo de utenzilios
+-Contacto
+-establecimientos
+-Iniciar secion
+Esperar accion del usuario
+Si el usuario selecciona "Iniciar secion" entonces
+Solicitar datos (Nombre de usuario, correo electronico, contraseña, fecha de nacimiento)
+Validar datos
+Si los datos son correctos entonces
+Guardar informacion de inicio de secion en el sistema
+Si No
+Mostrar error en la casilla donde esten los datos incorrectos y solicitar la correcion de los datos erroneos
+Si el usuario selecciona "Catalogo de utenzilios" entonces
+Mostrar los tipos de utenzilios disponibles
+Si el usuario desea apartar producto entonces
+Seleccionara catalago de utensilios
+Buscara sus productos deseados
+Dara click en apartar si ya inicio secion
+Si no
+Mandarlo directamente al apartado "iniciar secion"
+Si el usuario selecciona "Contacto" entonces
+Mostrar numeros de telefono, correo electronico y formulario de Contacto
+Si el usuario selecciona "establecimientos" entonces
+Mostrar datos (Ubicaciones, horarios, personal)
