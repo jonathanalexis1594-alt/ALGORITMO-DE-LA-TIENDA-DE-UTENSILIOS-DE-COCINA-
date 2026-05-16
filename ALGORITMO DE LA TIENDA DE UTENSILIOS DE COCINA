@@ -24,3 +24,4 @@ Si el usuario selecciona "Contacto" entonces
 Mostrar numeros de telefono, correo electronico y formulario de Contacto
 Si el usuario selecciona "establecimientos" entonces
 Mostrar datos (Ubicaciones, horarios, personal)
+fin
