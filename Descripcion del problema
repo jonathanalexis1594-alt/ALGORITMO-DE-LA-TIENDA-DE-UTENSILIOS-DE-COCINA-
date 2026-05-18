@@ -1,0 +1,17 @@
+Arquitectura del sistema 
+Presentacion: Muestra de manera atractiva de los productos de la tienda
+Capa de logoca del negocio: El servidor que procesara y validara si los datos son correctos
+Capa de datos (Base de datos): almacen degital donde se guardara toda la informacion del negocio
+
+Diseño de base de datos
+Tabla de usuarios: Nombre del usuario, correo electronoco, contraseña, numero de telefono y fecha de nacimiento
+Tabla de Productos (Utensilios de cocina): Nombre del utensilio, descripcion, categoria (Por ejemplo: Sartenes, cuchillos, moldes)), precio, stock/Disponibilidad, Imagen
+Tabla de Sucursales (Establecimientos): Nombre de la sucursal, Ubicacion, Horario de apertura y de cierre, Telefono y correo electronico
+Tienda Apartados: Tipo de producto, Cantidad, fecha de apartado, establecimiento de apartado
+
+Diseño de la interfaz del usuario: 
+Pagina de inicio: Banner de la empresa dando la bienvenida (Por ejemplo: (Buenos dias Bienvenido)), productos destacados y en promocion y acceso directo al menu principal
+Catalogo de utensilios: Una cuadricula con filtros interactivos por categoria con la opcion de (Ver detalles, Apartar en cada producto)
+Pantalla de autenticacion (Iniciar secion): Formulario limpio con Nombre de usuario, correo electronico, contraseña, numero de telefono y fecha de nacimiento
+Seccion de sstablecimientos: Mapa interactivo o integracion con Google Maps junto con la lista de direcciones y sus respectivos horarios de apertura y de cierre
+Seccion de contacto: Campos de numeros de telefono y correo electronico
